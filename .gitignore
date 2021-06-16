@@ -1,0 +1,7 @@
+# PyCharm
+.idea/
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+./.ipynb_checkpoints/
